@@ -17,3 +17,6 @@ Extract car_rental_website in htdocs folder of xampp
 Start XAMPP Apache & MySQL
 
 Website URL : http://localhost/car_rental_website/carrental/
+
+Website Snapshots:
+https://drive.google.com/file/d/19X53d3rZqiuugoYmjQxfjlGINhCNbSOV/view?usp=sharing
