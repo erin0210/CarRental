@@ -10,7 +10,7 @@ username  :admin
 password  :Test@12345
 
 db table file procedure:
-1. Create database table in PHP MyAdmin
+1. Create database table called 'carrental' in PHP MyAdmin
 2. Import carrental.sql in the database
 
 Extract car_rental_website in htdocs folder of xampp
